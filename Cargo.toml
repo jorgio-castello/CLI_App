@@ -1,5 +1,5 @@
 [package]
-name = "CLI_App"
+name = "cli_app"
 version = "0.1.0"
 authors = ["Jorge Castello <jorgio.castello@gmail.com>"]
 edition = "2018"
